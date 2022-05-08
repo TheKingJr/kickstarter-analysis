@@ -1,0 +1,46 @@
+# Kickstarter Challenge 1
+
+## Overview of Project
+
+- Deliverable 1: Outcomes based on Launch Date Chart (Theater_Outcomes_vs_Launch.png in Resources Folder)
+- Deliverable 2: Outcomes based on Goals Chart (Outcomes_vs_Goals.png in Resources Folder)
+- Deliverable 3: A written analysis of the results
+
+### Purpose
+
+Louise wants to observe how other plays performed in achieving their fundraising goals by visualizing their launch dates against their funding goals. 
+
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+If Louise ever wants to execute another play, she should ideally have her fundraising launch date in May. However, if she cannot do it in May, June and July are two other options that will work just fine. Lastly, in order to maximize her chances of success the followings months should be avoided: January, March, November, and December. 
+
+### Analysis of Outcomes Based on Goals
+
+There is a positive correlation between successful and failed goals. As such, the data indicates that goals placed between 15000 to 19999 and 40000 to 50000 should be avoided due to the high failure probability. Louise should instead aim for fundraising goals positioned between 0 to 15000 and 35000 to 45000 for high chances of success.
+
+### Challenges and Difficulties Encountered
+
+Some of the challenges I encountered involved troubleshooting. Mainly when I copied cells into another spreadsheet and I didn't make the original referenced cells absolute. This caused a lot of issues when I tried analyzing the data and resulted in me making cell by cell corrections. I learned my lesson at the end of it all and will make sure not to make the same mistake next time.
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Conclusion 1: Louise should plan her fundraising launch date in May, but there is some leeway with June and July if May is not possible.
+
+Conclusion 2: Louise should definitely avoid having her fundraising launch date in January, March, November, and December. 
+
+- What can you conclude about the Outcomes based on Goals?
+
+Conclusion: Louise should aim her goals to be between 0 to 15000 and 35000 to 45000 USD. 
+
+- What are some limitations of this dataset?
+
+ I'm not exactly sure about the limitations of this dataset. In my opinion, I feel like no dataset will ever be completely perfect and have all the information necessary. However, if I had to include one other variable to this data, it would be age. It could help Louise hone in on her target audience and who she wants to reach. 
+
+- What are some other possible tables and/or graphs that we could create?
+
+Average Donations vs. Country table/graph; Average Donations vs. Subcategories/Parent Categories table; Success/Failure/Canceled vs. Time Frame table/graph similar to the one generated for Outcomes based on Goals. 
